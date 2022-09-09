@@ -2,7 +2,7 @@
  #include <stdbool.h>
    int main(){
     // props = make any date like this--> //5/9/2012 look like this --> 5-spetembre-2012
-     int jour,mois,anne;
+     int jour , mois , anne ;
         printf("Veileur entrer la date :  ");
              scanf("%d / %d / %d",&jour,&mois,&anne);
                  switch (mois)
